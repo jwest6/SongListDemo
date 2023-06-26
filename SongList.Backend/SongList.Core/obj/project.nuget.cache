@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1XP5bFRXjO/OkcyhQ5ccXLlwJ150WKQet3Ov6dCi71rwcuLlRsdLLqtLNaE1r04zvXl22IFARzS32pk9s/mKw==",
+  "success": true,
+  "projectFilePath": "B:\\Projects\\GithubRepos\\ReactNative\\SongListDemo\\SongList.Backend\\SongList.Core\\SongList.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\West\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

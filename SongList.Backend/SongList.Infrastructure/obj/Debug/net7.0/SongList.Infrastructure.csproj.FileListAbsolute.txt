@@ -1,0 +1,17 @@
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Infrastructure.deps.json
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Infrastructure.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Infrastructure.pdb
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Core.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Core.pdb
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.csproj.AssemblyReference.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.AssemblyInfoInputs.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.AssemblyInfo.cs
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.csproj.CoreCompileInputs.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.csproj.CopyComplete
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\refint\SongList.Infrastructure.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.pdb
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\ref\SongList.Infrastructure.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\bin\Debug\net7.0\SongList.Infrastructure.runtimeconfig.json
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Infrastructure\obj\Debug\net7.0\SongList.Infrastructure.genruntimeconfig.cache

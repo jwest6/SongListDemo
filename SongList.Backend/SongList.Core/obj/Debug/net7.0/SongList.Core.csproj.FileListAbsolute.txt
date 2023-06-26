@@ -1,0 +1,12 @@
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\bin\Debug\net7.0\SongList.Core.deps.json
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\bin\Debug\net7.0\SongList.Core.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\bin\Debug\net7.0\SongList.Core.pdb
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.csproj.AssemblyReference.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.AssemblyInfoInputs.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.AssemblyInfo.cs
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.csproj.CoreCompileInputs.cache
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\refint\SongList.Core.dll
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\SongList.Core.pdb
+B:\Projects\GithubRepos\ReactNative\SongListDemo\SongList.Backend\SongList.Core\obj\Debug\net7.0\ref\SongList.Core.dll
